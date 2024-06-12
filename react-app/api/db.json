@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kübra Erturan",
+      "salary": "60000",
+      "department": "Software"
+    },
+    {
+      "id": 2,
+      "name": "Test Erturan",
+      "salary": "80000",
+      "department": "Software"
+    },
+    {
+      "name": "1",
+      "salary": "12223",
+      "department": "334",
+      "id": "lx2z2xxn"
+    }
+  ],
+  "courses":[
+   {
+    "id":1,
+    "name":"Asp .Net Mvc",
+    "price":"30$",
+    "level":"Intermediate"
+   },
+   {
+    "id":2,
+    "name":".Net Core",
+    "price":"40$",
+    "level":"Intermediate"
+   },
+   {
+    "id":3,
+    "name":"Design Patterns",
+    "price":"50$",
+    "level":"Advanced"
+   },
+   {
+    "id":4,
+    "name":"Javascript",
+    "price":"10$",
+    "level":"Beginner"
+   },
+   {
+    "id":5,
+    "name":"Deep Learning",
+    "price":"30$",
+    "level":"Intermediate"
+   },
+   {
+    "id":6,
+    "name":"React.js",
+    "price":"30$",
+    "level":"Intermediate"
+   }
+  ]
+}

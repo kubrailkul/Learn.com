@@ -1,0 +1,57 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Asp .Net Mvc",
+      "price": 30,
+      "level": "beginner"
+    },
+    {
+      "id": 2,
+      "name": ".Net Core",
+      "price": 40,
+      "level": "intermediate"
+    },
+    {
+      "id": 3,
+      "name": "Design Patterns",
+      "price": 70,
+      "level": "Advanced"
+    },
+    {
+      "id": 4,
+      "name": "Restful Api",
+      "price": 40,
+      "level": "intermediate"
+    },
+    {
+      "id": 5,
+      "name": "Microservices",
+      "price": 50,
+      "level": "Advanced"
+    },
+    {
+      "id": 6,
+      "name": "Deep Learning",
+      "price": 40,
+      "level": "intermediate"
+    }
+  ],
+  "slider": [
+    {
+      "path": "https://blog.coursify.me/wp-content/uploads/2018/08/plan-your-online-course.jpg"
+    },
+    {
+      "path": "https://via.placeholder.com/500x300?text=Image+2"
+    }
+  ],
+  "userCourses": [
+    {
+      "userId": 1,
+      "courseId": 1,
+      "courseName": "Asp .Net Mvc",
+      "coursePrice": 30,
+      "id": "lxc9nbg0"
+    }
+  ]
+}
